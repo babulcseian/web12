@@ -1,5 +1,24 @@
 journal:
   - year: 2025
+    title: "Soil Former: XXXX)"
+    authors:
+      - { name: "Md Babul Islam", me: "1" }
+      - { name: "Antonio Guerrieri" }
+      - { name: "Raffaele Gravina" }
+      - { name: "John Byabazaire" }
+      - { name: "Giancarlo Fortino" }
+      - { name: "Declan T. Delaney" }
+    journal: "IEEE Sensors Journal (Q1)"
+    doi: "https://babulcseian.github.io/soil_sensors_data/"
+    paper: "https://babulcseian.github.io/soil_sensors_data/"
+    code: "https://babulcseian.github.io/soil_sensors_data/"
+    slides: ""
+    videos: ""
+    dataset: "https://babulcseian.github.io/soil_sensors_data/"
+    figure: "/assets/img/paper/journal/Soil-Monitoring-Station.jpg"
+    fit: "contain"
+  - year: 2025
+  - year: 2025
     title: "Soil Former: A Customized Transformer for Soil Moisture Forecasting in Irish Scenarios (Under Review)"
     authors:
       - { name: "Md Babul Islam", me: "1" }
