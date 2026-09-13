@@ -17,7 +17,7 @@ journal:
     dataset: "https://babulcseian.github.io/soil_sensors_data/"
     figure: "/assets/img/paper/journal/Soil-Monitoring-Station.jpg"
     fit: "contain"
-  - year: 2025
+    
   - year: 2025
     title: "Soil Former: A Customized Transformer for Soil Moisture Forecasting in Irish Scenarios (Under Review)"
     authors:
